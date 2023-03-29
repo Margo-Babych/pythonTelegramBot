@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.isnumber" />
+          <option value="homework.homework8.task3.count_lines" />
+          <option value="homework.homework8.task3.count_chars" />
+          <option value="list.*" />
+          <option value="classwork.lesson23_stack.binary.Stack" />
+          <option value="cv2.*" />
+          <option value="states.base" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
